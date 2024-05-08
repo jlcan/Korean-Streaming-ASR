@@ -58,6 +58,16 @@ pip install Flask-SocketIO
 
 Google Drive Folder: [Download Here](https://drive.google.com/drive/folders/1Adv8kYXV1XGGoLY1XA36EI38kfk0r0WZ?usp=drive_link)
 
+**run requirements.txt**
+```
+pip install -r requirements.txt
+```
+If there is an error building pyaudio, then run below.
+```
+sudo apt install build-essential portaudio19-dev
+pip install PyAudio. 
+```
+
 ## Run
 **File mode**
 
